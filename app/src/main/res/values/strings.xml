@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Upstack Demo</string>
+    <string name="error_touch_reload">There was an error, touch to reload</string>
+    <string name="no_albums">There are no albums right now</string>
+    <string name="no_photos">There are no photos for this album</string>
+    <string name="pinch_to_zoom_explain">You can pinch to zoom and pan the image</string>
+
+</resources>
